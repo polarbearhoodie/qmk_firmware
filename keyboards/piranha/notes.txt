@@ -1,4 +1,0 @@
-set the handed ness of the sides with a pull up
-enable split keyboard
-enable layers,
-change the hardware definition
