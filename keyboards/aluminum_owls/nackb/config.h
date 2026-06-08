@@ -1,0 +1,1 @@
+#define SERIAL_USART_DRIVER SD2
